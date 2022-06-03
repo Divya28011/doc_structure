@@ -1,0 +1,53 @@
+
+Architecture diagram
+Functionality & Tech Stack : 
+Tech Stack 
+Functionality 
+Caveat
+
+
+
+Request 
+
+
+Edge Service	
+Context Path	
+End Point	
+HTTP Method	POST
+Request Body	
+
+Header	
+Authorization	
+
+
+Note - 
+
+Please create an NUID for the following AD group :
+
+Stage : 
+
+
+The clientID needs to have the scope. 
+
+x-api-key	Valid API Key
+
+
+
+
+
+
+Response 
+
+
+
+
+Attribute Mapping with Table columns
+
+
+
+
+In-Scope
+
+
+
+Out-Of-Scope
