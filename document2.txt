@@ -1,0 +1,27 @@
+ What are we trying to solve?
+
+
+Why does it matter?
+
+
+Architecture
+
+
+
+Data Design
+
+
+Table details
+
+
+API: 
+URL: 
+
+
+
+
+HTTP Method:
+
+GET
+
+Response Payload:
